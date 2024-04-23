@@ -1,0 +1,29 @@
+body{
+    background-image: url(../images/IMG_1977.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+ }
+ 
+ 
+ .title{
+    position:fixed;
+    top: 250px;
+    width: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight:normal;
+    text-align: center;
+ }
+ 
+ 
+ .smaller{
+    position:fixed;
+    top: 290px;
+    width: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    text-align:center;
+ }
+ 
